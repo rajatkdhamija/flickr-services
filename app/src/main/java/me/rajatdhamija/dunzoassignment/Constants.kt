@@ -1,0 +1,25 @@
+package me.rajatdhamija.dunzoassignment
+
+object Constants {
+    const val PHOTOS= "photos"
+    const val STAT ="stat"
+    const val ID ="id"
+    const val OWNER ="owner"
+    const val TEXT ="text"
+    const val SECRET ="secret"
+    const val SERVER ="server"
+    const val FARM ="farm"
+    const val TITLE ="title"
+    const val IS_PUBLIC ="ispublic"
+    const val IS_FRIEND ="isfriend"
+    const val IS_FAMILY ="isfamily"
+    const val METHOD ="method"
+    const val API_KEY ="api_key"
+    const val FORMAT ="format"
+    const val NO_JSON_CALLBACK ="nojsoncallback"
+    const val PER_PAGE ="per_page"
+    const val PAGE ="page"
+    const val PAGES ="pages"
+    const val TOTAL ="total"
+    const val PHOTO ="photo"
+}

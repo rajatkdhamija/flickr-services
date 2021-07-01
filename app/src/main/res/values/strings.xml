@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DunzoAssignment</string>
+    <string name="loading">Loading</string>
+    <string name="no_results">No results 😓</string>
+    <string name="retry">Retry</string>
+    <string name="search_hint">Search...</string>
+    <string name="url">https://farm%s.staticflickr.com/%s/%s_%s_b.jpg</string>
 </resources>
